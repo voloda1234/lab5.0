@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab5_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A912282C-5E00-438E-9A0C-3A3B7601172D}|UnitTest1\\UnitTest1.vcxproj|C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab5_1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A912282C-5E00-438E-9A0C-3A3B7601172D}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1BF38EB-796B-44CF-8155-115EEE488266}|lab5_1\\lab5_1.vcxproj|C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab5_1\\lab5_1\\lab5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E1BF38EB-796B-44CF-8155-115EEE488266}|lab5_1\\lab5_1.vcxproj|solutionrelative:lab5_1\\lab5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,15 +23,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab5_1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab5_1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T15:49:08.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab5.1.cpp",
               "DocumentMoniker": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab5_1\\lab5_1\\lab5.1.cpp",
               "RelativeDocumentMoniker": "lab5_1\\lab5.1.cpp",
               "ToolTip": "C:\\\u041B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab5_1\\lab5_1\\lab5.1.cpp",
               "RelativeToolTip": "lab5_1\\lab5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-23T09:48:19.238Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
